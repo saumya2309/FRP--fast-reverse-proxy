@@ -7,17 +7,8 @@
  It is the server component of a fast reverse proxy (FRP) system that exposes local services behind a firewall or NAT to the internet. It runs on a publicly accessible machine and waits for connections from FRP clients, which run on the local machines.
 
  
-## We'll need to accomplish:
-
-- Set up an AWS EC2 instance (Ubuntu) to act as the FRP server
-- Create a simple website locally (FRP client side)
-- Configure FRP server on EC2
-- Configure FRP client on your local machine
-- Expose your local website through the FRP server
 
 
-
-# 1. Set up an AWS EC2 instance (Ubuntu) 
 ## 1. LAUNCH INSTANCE
 - Log into AWS Console
 - Navigate to EC2 Dashboard
