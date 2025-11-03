@@ -24,7 +24,7 @@ tar -xvzf frp_0.58.1_linux_amd64.tar.gz
 cd frp_0.58.1_linux_amd64
 
 
-<img width="833" height="517" alt="Screenshot 2025-10-28 120637" src="https://github.com/user-attachments/assets/93300401-b1db-48b1-a4ce-87a0c139711a" />
+
 
 FRP IS RUNNING.
 
